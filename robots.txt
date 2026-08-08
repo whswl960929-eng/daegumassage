@@ -4,4 +4,4 @@ Allow: /
 User-agent: Yeti
 Allow: /
 
-Sitemap: https://www.daegumassage.co.kr/sitemap.xml
+Sitemap: https://daegumassage.co.kr/sitemap.xml
